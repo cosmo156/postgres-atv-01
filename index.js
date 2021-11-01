@@ -17,8 +17,8 @@ async function conexao(){
       id serial primary key,
       nome varchar
      );`);
-*/
-  pool.release();
+    
+  pool.release();*/
 
   
 }
